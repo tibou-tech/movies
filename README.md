@@ -14,6 +14,8 @@ save their favorite movies.
 
 ## Project Setup
 
+After clone the project do
+
 ```sh
 npm install
 ```
