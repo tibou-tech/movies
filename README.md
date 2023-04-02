@@ -16,6 +16,8 @@ save their favorite movies.
 
 After clone the project do
 
+### Install dependencies
+
 ```sh
 npm install
 ```
