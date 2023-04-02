@@ -14,7 +14,7 @@ save their favorite movies.
 
 ## Project Setup
 
-After clone the project do
+After clone the project you must do:
 
 ### Install dependencies
 
@@ -65,10 +65,15 @@ Click on the `logout` button for logout
 Click on `the Sun/Moon` for switch `Light/Dark` mode
 
 ## Favorite movies
-For `add a movie to favorite list` you must click on movie from list movies and click on button favorite
+For `add a movie to favorite list`
+
+- Click on movie from list movies 
+- Click on button favorite
 
 For `show favorite list movies` click on `favorite button` in navbar
 
 ## Search movies
 Type your search by title on the `search input` to find your favorite movies.
+
+You can navigate between results using pagination.
 
